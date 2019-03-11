@@ -41,7 +41,7 @@ const item2 = new Item ({
   name: "Hit plus to add."
 });
 const item3 = new Item ({
-  name: "Hit this to delete."
+  name: "<-- hit it to delete it."
 });
 
 const defaultItems = [item1, item2, item3];
